@@ -1,0 +1,24 @@
+Aries
+aries.png
+3
+Marte
+Los hombres nacidos bajo el signo de Aries...
+Las mujeres nacidas bajo el signo de Aries...
+Tauro
+tauro.jpeg
+21
+Saturno
+Los hombres nacidos bajo el signo de Tauro...
+Las mujeres nacidas bajo el signo de Tauro...
+Geminis
+geminis.png
+2
+Venus
+Los hombres nacidos bajo el signo de Geminis
+Las mujeres nacidas bajo el signo de Geminis
+Cancer
+cancer.jpg
+7
+Jupiter
+Los hombres nacidos bajo el signo de Cancer
+Las mujeres nacidas bajo el signo de Cancer
